@@ -1,0 +1,1 @@
+# ghcp-extension-starter
